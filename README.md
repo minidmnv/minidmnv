@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michal @minidmnv
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Solidity, TypeScript and Python
+- 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me  - minidmnv@gmail.com
 
